@@ -1,0 +1,26 @@
+build*
+bazel-*
+.vscode
+.vs
+.setuptools
+
+.ipynb_checkpoints
+__pycache__
+*.pyc
+
+# clangd indexing cache
+.cache
+
+*.exe
+*.obj
+*.pdb
+*.exp
+*.ilk
+*.dll
+*.lib
+*.cod
+*.asm
+
+a.out
+*.o
+*.so

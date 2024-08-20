@@ -1,0 +1,4 @@
+
+set(BENCHMARK_ENABLE_INSTALL OFF)
+set(BENCHMARK_ENABLE_TESTING OFF)
+add_subdirectory(repo)
